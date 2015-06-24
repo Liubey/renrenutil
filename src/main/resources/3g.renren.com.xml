@@ -1,0 +1,92 @@
+<!--?xml version="1.0" encoding="UTF-8"? --><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>手机人人网 - 因为真实，所以精彩</title>
+		<meta name="msApplication-ID" content="BUILD.70a71681-f761-44f7-b6fb-029238bddf44" />
+		<meta name="msApplication-PackageFamilyName"
+			content="BUILD.70a71681-f761-44f7-b6fb-029238bddf44_jmektqcje7yt4" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="Cache-Control" content="no-cache" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<link href="http://s.xnimg.cn/wap/apple_icon_.png" rel="apple-touch-icon-precomposed" />
+		<link rel="stylesheet" href="http://s.xnimg.cn/a48648/wap/i.css"
+			type="text/css" />
+	</head>
+	<body>
+		<div id="logo">
+			<table>
+				<tbody>
+					<tr>
+						<td>
+							<a href="http://3g.renren.com/?htf=736&amp;from=">
+								<img alt="renren" src="http://a.xnimg.cn/wap/logo.gif" />
+							</a>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="sectitle">
+			欢迎来到手机人人网!
+		</div>
+		<div class="sec nb gray">
+			随时随地与现实中的朋友保持联系并分享生活
+		</div>
+		<div class="sec">
+			<form action="http://3g.renren.com/login.do?autoLogin=true&amp;&amp;fx=0"
+				method="post">
+				<p>
+					<input type="hidden" name="origURL" value="/home.do" />
+					<input type="hidden" name="lbskey" value="1355024071885tDIAXNayVN3Vieb5xGJQ" />
+					<input type="hidden" name="c" value="" />
+					<input type="hidden" name="pq" value="" />
+					<input type="hidden" name="appid" value="" />
+					<input type="hidden" name="ref" value="http://m.renren.com/q.do?null" />
+					帐号(邮箱/手机号/用户名):
+					<br />
+					<input type="text" name="email" value="" />
+					<br />
+					密码(区分大小写):
+					<br />
+					<input type="password" name="password" />
+					<br />
+					<input type="hidden" name="verifykey" value="a88c9718c7b5780105cab469b8d12381" />
+					<img
+						src="/rndimg_wap?post=_REQUESTFRIEND_a88c9718c7b5780105cab469b8d12381&amp;rnd=1355024071885"
+						alt="此处为验证码" />
+					<a
+						href="http://3g.renren.com/login.do?autoLogin=true&amp;email=&amp;from=0&amp;notomt=no">看不清换一张?</a>
+					<br />
+					请输入验证码:
+					<br />
+					<input type="text" name="verifycode" value="" style="width: 60px" />
+				</p>
+				<p>
+					<input type="submit" name="login" value="登录" class="button" />
+					&nbsp;
+					<a href="http://3g.renren.com/help/resetpassword.do?&amp;from=0">找回密码</a>
+				</p>
+			</form>
+			<div>
+				<a href="http://mreg.renren.com/reg/wljump.do?r=1&amp;">手机30秒快速注册</a>
+			</div>
+		</div>
+		<div class="sec nb">
+			<!-- ******************************ysm****************************** -->
+			<a href="http://mdown.renren.com/soft/sclient.do?id=281&amp;htf=1582">无需验证，直接登录人人客户端！</a>
+			<!-- ******************************ysm****************************** -->
+		</div>
+		<div class="sec nav">
+			<a href="http://3g.renren.com/help/questions.do?&amp;from=">反馈</a>
+		</div>
+		<div id="footer">
+			12月9日 11:34
+			<br />
+			人人公司
+			<span title="revision $revxxx$; SJSWT43-150.opi.com">&copy;</span>
+			2012
+		</div>
+		<!-- 移动定位 -->
+		<!-- 电信定位 -->
+	</body>
+</html>
